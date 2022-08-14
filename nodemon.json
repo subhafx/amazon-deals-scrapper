@@ -1,0 +1,5 @@
+{
+  "restartable": "rs",
+  "ext": "js,ts,html,jst",
+  "ignore": ["dist"]
+}
